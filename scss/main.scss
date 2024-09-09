@@ -1,0 +1,60 @@
+body{
+
+.btn{
+    width: 140px;
+    height: 40px;
+    color: whitesmoke;
+    border-radius: 10px;
+    line-height: 40px;
+    border: none;
+}
+>button.red{
+    @extend .btn;
+    background-color: rgb(132, 12, 12);
+}
+>button.rose{
+    @extend .btn;
+    background-color: rgb(236, 70, 123);
+  
+}
+>button.green{
+    @extend .btn;
+    background-color: rgb(33, 126, 10);
+
+}
+>button.blue{
+    @extend .btn;
+    background-color: rgb(46, 115, 188);
+
+}
+  
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

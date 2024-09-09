@@ -1,0 +1,19 @@
+body .btn, body > button.red, body > button.rose, body > button.green, body > button.blue {
+  width: 140px;
+  height: 40px;
+  color: whitesmoke;
+  border-radius: 10px;
+  line-height: 40px;
+  border: none; }
+
+body > button.red {
+  background-color: #840c0c; }
+
+body > button.rose {
+  background-color: #ec467b; }
+
+body > button.green {
+  background-color: #217e0a; }
+
+body > button.blue {
+  background-color: #2e73bc; }
